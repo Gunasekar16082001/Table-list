@@ -1,5 +1,12 @@
 table {
     width: 100%;
+
   }
-  
+  .card{
+      background-color: rgb(185, 245, 245);
+      border: 2px black;
+      border-radius: 5px;
+      width: 80%;
+      
+  }
   
